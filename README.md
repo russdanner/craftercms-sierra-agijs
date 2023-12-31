@@ -39,6 +39,8 @@ UI for modifying loops and individual cels of loops of a given view (or Sprite)
 UI for modifying loops and individual pictures (or screen backgrounds)
 ![image](https://github.com/russdanner/craftercms-sierra-agijs/assets/169432/3fed7f4d-5977-4a28-8717-7aacf5ea2de5)
 
+![image](https://github.com/russdanner/craftercms-sierra-agijs/assets/169432/fd11159c-167f-4ecf-9539-9f1e206caf2c)
+
 ## Priority Buffer Mode
 ![image](https://github.com/russdanner/craftercms-sierra-agijs/assets/169432/95a7dd6a-971c-4763-8233-b64dbf10d58b)
 
