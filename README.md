@@ -5,7 +5,7 @@ AGI Studio is a CrafterCMS site blueprint and plugin suite enabling users to cre
 
 ![image](https://github.com/russdanner/craftercms-sierra-agijs/assets/169432/abfa3618-70ff-42e9-9f5e-92bba5e22bac)
 
-# Included Plugins:
+# Included plugins:
 - Current Room Reload
 - Room selector / Teleport
 - Move Ego (X, Y)
@@ -16,13 +16,14 @@ AGI Studio is a CrafterCMS site blueprint and plugin suite enabling users to cre
 - Picture Editor
 - View Editor
 
-# Example Coding Experience:
+# Example coding experience:
+A short video that demonstrates these tools. (Game sound did not record properly.)
 https://www.youtube.com/watch?v=PRed--B4sNM&t=30s
 
 # Games built and compiled with AGI Studio
 - Let Them Eat Cake: https://let-them-eat-cake.com/
 
-# Related Blogs
+# Related blogs / articles
 - Related Blog: https://craftercms.org/blog/2024/happy-40th-birthday-kings-quest
         
 # Related documentation
