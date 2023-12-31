@@ -28,7 +28,7 @@
 #define vNonDictionaryWord 9
 #define vGameCycleDelay 10
 #define vKeyPressed 19
-
+#define fGameInited 35
 #define vRoomInited 34
 
 // flags
@@ -50,6 +50,8 @@
 #define fSysStatusSelect 13
 #define fSysMenuOn 14
 #define fSysPrintMode 15
+
+#define fGameOver 16
 
 // consts  
 #define valTrue 1

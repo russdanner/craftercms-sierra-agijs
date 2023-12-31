@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/gametitle</content-type>
+	<display-template>/templates/web/Game.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>bbea</objectGroupId>
+	<objectId>bbeac6db-d461-dfba-2ac7-cacf97c08717</objectId>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>3000</orderDefault_f>
+	<internal-name>Game Template</internal-name>
+	<navLabel>Game Template</navLabel>
+	<game_s>template</game_s>
+	<file-name>index.xml</file-name>
+	<folder-name>sq2</folder-name>
+	<createdDate>2023-12-18T03:45:25.764Z</createdDate>
+	<createdDate_dt>2023-12-18T03:45:25.764Z</createdDate_dt>
+	<lastModifiedDate>2023-12-25T23:50:48.017Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-12-25T23:50:48.017Z</lastModifiedDate_dt>
+</page>

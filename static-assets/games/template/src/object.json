@@ -1,0 +1,6 @@
+{
+  "objects": [
+    { "name": "fork", "startingRoom": 1 }
+  ],
+  "maxObjects": 1
+}
