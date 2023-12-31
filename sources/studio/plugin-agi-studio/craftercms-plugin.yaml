@@ -1,0 +1,47 @@
+# This file describes a plugin for use in CrafterCMS
+
+# The version of the format for this file
+descriptorVersion: 2
+
+# Describe the plugin
+plugin:
+  type: site
+  id: org.rd.plugin.agistudio
+  name: AGIStudio
+  tags:
+    - studio
+  version:
+    major: 1
+    minor: 0
+    patch: 0
+  description: A plugin to interact with AGI.js games
+  documentation: "https://github.com/russdanner/craftercms-sierra-agijs/master/README.md"
+  website:
+    name: AGI Studio
+    url: https://github.com/russdanner/craftercms-sierra-agijs
+  media:
+    screenshots:
+      - title: CrafterCMS
+        description: AGI Studio
+        url: "https://github.com/russdanner/craftercms-sierra-agijs/master/.crafter/logo.png"
+  developer:
+    company:
+      name: Russ Danner
+      email: russdanner@craftercms.com
+      url: https://github.com/russdanner
+  build:
+    id: agiebabe31300070207481d6ba87901d0b02716c9
+    date: 2023-09-15T00:00:00Z
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+  crafterCmsVersions:
+    - major: 4
+      minor: 1
+      patch: 1
+    - major: 4
+      minor: 1
+      patch: 2
+  crafterCmsEditions:
+    - community
+    - enterprise

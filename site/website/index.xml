@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Select Game</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<body_html>&lt;p&gt;This project is an integration with an open source project called AGI.js (Adventure Game Interpreter)&lt;br /&gt;&lt;a href="https://github.com/r1sc/agi.js/blob/master/README.md" target="_blank" rel="noopener"&gt;https://github.com/r1sc/agi.js/blob/master/README.md &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;You can find more information of Sierra's AGI here:&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://en.wikipedia.org/wiki/Adventure_Game_Interpreter" target="_blank" rel="noopener"&gt;https://en.wikipedia.org/wiki/Adventure_Game_Interpreter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.agidev.com/articles/agispec/agispecs-3.html" target="_blank" rel="noopener"&gt;http://www.agidev.com/articles/agispec/agispecs-3.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://wiki.scummvm.org/index.php/AGI/Specifications" target="_blank" rel="noopener"&gt;https://wiki.scummvm.org/index.php/AGI/Specifications&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;You can find non-browser based tools for playing modifying AGI game files here:&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&lt;a href="http://agi.sierrahelp.com/Tools/index.html"&gt;http://agi.sierrahelp.com/Tools/index.html&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;These videos are from others working with AGI data are great:&lt;br /&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/watch?v=XWiR1qP8wp8" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=XWiR1qP8wp8&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;a href="https://www.youtube.com/watch?v=QihSN7VCrB0" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=QihSN7VCrB0&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;br /&gt;&lt;/div&gt;
+&lt;div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;</body_html>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2023-09-20T04:54:10.683Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-09-20T04:54:10.683Z</lastModifiedDate_dt>
+	<title_t>About</title_t>
+	<disabled>false</disabled>
+</page>

@@ -1,0 +1,4 @@
+*.d.ts
+reportWebVitals.ts
+setupTests.ts
+vite.config.ts

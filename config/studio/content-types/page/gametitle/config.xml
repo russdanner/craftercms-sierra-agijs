@@ -1,0 +1,18 @@
+<content-type name="/page/gametitle" is-wcm-type="true">
+	<label>Game Title</label>
+	<form>/page/gametitle</form>
+	<form-path>simple</form-path>
+	<model-instance-path>NOT-USED-BY-SIMPLE-FORM-ENGINE</model-instance-path>
+	<file-extension>xml</file-extension>
+	<content-as-folder>true</content-as-folder>
+	<previewable>true</previewable>
+	<quickCreate>false</quickCreate>
+	<quickCreatePath></quickCreatePath>
+	<noThumbnail>true</noThumbnail>
+	<image-thumbnail></image-thumbnail>
+	<paths>
+		<includes>
+			<pattern>^/site/games/.*</pattern>
+		</includes>
+	</paths>
+</content-type>
