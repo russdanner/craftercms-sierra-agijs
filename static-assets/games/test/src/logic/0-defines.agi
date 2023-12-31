@@ -1,0 +1,75 @@
+// objects
+#define objEgo 0
+#define objInv 15
+
+// pics
+#define picTitle 0
+#define picGrahamsHouseInside 1
+
+
+// views
+#define viewEgo 0
+
+// objects
+
+// sounds
+
+
+// vars
+// Engine Vars
+#define vCurrentRoom 0
+#define vPreviousRoom 1
+#define vEgoEdgeTouched 2
+#define vCurrentScore 3
+#define vNonEgoIDEdgeTouched 4
+#define vNonEgoEdgeTouched 5
+#define vEgoDirection 6
+#define vMaxScore 7
+#define vNonDictionaryWord 9
+#define vGameCycleDelay 10
+#define vKeyPressed 19
+
+#define vRoomInited 34
+
+// flags
+
+// System Flags
+#define fSysEgoOnWater 0
+#define fSysEgoObscured 1
+#define fSysPlayerIssuedCommand 2
+#define fSysEgoTouchedPriority2 3
+#define fSysSaidAccepted 4
+#define fSysNewRoomCodeExecuted 5
+#define fSysRestartGameExecuted 6
+#define fSysScriptBufferWriteBlock 7
+#define fSysJoystickEnabled 8
+#define fSysSoundOn 9
+#define fSysDebuggerOn 10
+#define fSysLogicZeroExecuted 11
+#define fSysRestoreExecuted 12
+#define fSysStatusSelect 13
+#define fSysMenuOn 14
+#define fSysPrintMode 15
+
+// consts  
+#define valTrue 1
+#define valFalse 0
+
+#define vMaxPoints 7
+#define vCurPoints 3
+
+#define directionUp 1
+#define directionDown 5
+#define directionLeft 7
+#define directionRight 3
+#define directionUpLeft 8
+#define directionUpRight 2
+#define directionDownLeft 6
+#define directionDownRight 4
+#define directionStopped 0
+
+#define edgeNone 0
+#define edgeTop 1
+#define edgeRight 2
+#define edgeBottom 3
+#define edgeLeft 4

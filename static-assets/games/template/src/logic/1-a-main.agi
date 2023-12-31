@@ -1,0 +1,71 @@
+#include "0-defines.aqi"
+
+load.pic(0)
+draw.pic(0)
+show.pic()
+
+
+if(!isset(fGameInited)) {
+    set(fGameInited)   
+    reset(fGameOver)
+
+    assignn(vMaxPoints, 100)
+    assignn(vCurPoints, 0)  
+
+    assignn(vGameCycleDelay, 2)
+}
+
+if(equaln(vCurrentRoom, 0)) {  
+    assignn(vRoomInited, valFalse)
+    assignn(vCurrentRoom, picTitle)
+}
+
+if(said("inv")) {
+    status()
+}
+
+if(said("save")) {
+    save_game()
+}
+
+if(said("restart")) {
+    restart_game()
+}
+
+if(said("restore")) {
+    restore_game()
+}
+if(said("help")) {
+    print("Use the arrow keys to move around. Type simple commands like LOOK ROOM or TAKE COINS to explore and act. You can SAVE and RESTORE progress.")
+}
+
+if(!equaln(vCurrentRoom, 0)) {
+    call.v(vCurrentRoom)
+}
+
+
+if(said("fastest", "speed")) {
+    assignn(10, 1)
+}
+if(said("fast", "speed")) {
+    assignn(10, 2)
+}
+if(said("normal", "speed")) {
+    assignn(10, 3)
+}
+if(said("slow", "speed")) {
+    assignn(10, 5)
+}
+if(said("sound", "on")) {
+    set(fSysSoundOn)
+}
+if(said("sound", "off")) {
+    reset(fSysSoundOn)
+}
+if(said("look", "anyword")) {
+        print("It's nothing special or important.")
+}
+
+return()
+
+#message 1 "Main Loop"
