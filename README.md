@@ -42,6 +42,8 @@ UI for modifying loops and individual pictures (or screen backgrounds)
 ![image](https://github.com/russdanner/craftercms-sierra-agijs/assets/169432/fd11159c-167f-4ecf-9539-9f1e206caf2c)
 
 ## Priority Buffer Mode
+![image](https://github.com/russdanner/craftercms-sierra-agijs/assets/169432/85ea7908-3482-44dc-9af7-6cb78fa85621)
+
 ![image](https://github.com/russdanner/craftercms-sierra-agijs/assets/169432/95a7dd6a-971c-4763-8233-b64dbf10d58b)
 
 ## AGI Script
