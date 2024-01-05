@@ -17,8 +17,8 @@ AGI Studio is a CrafterCMS site blueprint and plugin suite enabling users to cre
 - View Editor
 
 # Example coding experience:
-A short video that demonstrates these tools. (Game sound did not record properly.)
-https://www.youtube.com/watch?v=PRed--B4sNM&t=30s
+A short video that demonstrates these tools.  
+[https://www.youtube.com/watch?v=PRed--B4sNM&t=30s](https://www.youtube.com/watch?v=f73oKyRl4tI)
 
 # Games built and compiled with AGI Studio
 - Let Them Eat Cake: https://let-them-eat-cake.com/
